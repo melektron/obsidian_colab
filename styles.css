@@ -6,3 +6,8 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+/* style error notices with red background */ 
+div.notice:has(div > span.collab_error_notice) {
+    background-color: red;
+}

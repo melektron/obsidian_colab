@@ -16,6 +16,7 @@
 		"@typescript-eslint/eslint-plugin": "5.29.0",
 		"@typescript-eslint/parser": "5.29.0",
 		"builtin-modules": "3.3.0",
+		"dom-chef": "^5.1.1",
 		"esbuild": "0.17.3",
 		"lib0": "^0.2.108",
 		"obsidian": "latest",
