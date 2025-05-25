@@ -1,8 +1,18 @@
-# Obsidian Colab
+# Obsidian Collab
 
 Open Source, live syncing and collaboration plugin for [Obsidian](https://obsidian.md/).
 
 
+
+# Development
+
+For plugin development, the plugin can be symlinked to an Obsidian Vault for testing:
+
+```bash
+ln -s /home/user/path/to/repos/obsidian_colab ~/Documents/path/to/vault/.obsidian/plugins/obsidian_colab
+```
+
+Also install [hot-reload](https://github.com/pjeby/hot-reload) to automatically reload the plugin when making changes during development.
 
 # Obsidian Sample Plugin
 
